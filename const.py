@@ -1,0 +1,1 @@
+SPEED_OF_LIGHT = 20
